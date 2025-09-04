@@ -1,4 +1,4 @@
-#C Vending Machine
+# C Vending Machine 
 
 C Vending Machine is a console-based simulation of a vending machine, developed as part of an introductory C/C++ course. The program allows users to "insert" coins, receive change, and purchase a product, emulating a real-world vending machine experience.
 
